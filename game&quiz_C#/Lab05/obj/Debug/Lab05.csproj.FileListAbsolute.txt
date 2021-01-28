@@ -1,0 +1,14 @@
+D:\abc\LapTrinhMang\Lab05\Lab05\bin\Debug\Lab05.exe.config
+D:\abc\LapTrinhMang\Lab05\Lab05\bin\Debug\Lab05.exe
+D:\abc\LapTrinhMang\Lab05\Lab05\bin\Debug\Lab05.pdb
+D:\abc\LapTrinhMang\Lab05\Lab05\obj\Debug\Lab05.csprojAssemblyReference.cache
+D:\abc\LapTrinhMang\Lab05\Lab05\obj\Debug\Lab05.Form1.resources
+D:\abc\LapTrinhMang\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+D:\abc\LapTrinhMang\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+D:\abc\LapTrinhMang\Lab05\Lab05\obj\Debug\Lab05.exe
+D:\abc\LapTrinhMang\Lab05\Lab05\obj\Debug\Lab05.pdb
+D:\abc\LapTrinhMang\Lab05\Lab05\obj\Debug\Lab05.Bai1.resources
+D:\abc\LapTrinhMang\Lab05\Lab05\obj\Debug\Lab05.Bai1MoRong.resources
+D:\abc\LapTrinhMang\Lab05\Lab05\obj\Debug\Lab05.Bai2.resources
+D:\abc\LapTrinhMang\Lab05\Lab05\obj\Debug\Lab05.Bai2MoRong.resources
+D:\abc\LapTrinhMang\Lab05\Lab05\obj\Debug\Lab05.Bai3.resources
